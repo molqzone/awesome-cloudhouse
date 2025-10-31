@@ -81,6 +81,8 @@ Awesome Cloudhouse 项目受 Project Awesome 启发，旨在构建一个面向�
 
 ### 机器人与自动化
 
+* [rm_controls](https://rm-control-docs.netlify.app/) - 一套在 PC 上运行的经典的无下位机电控软件，基于 ros-controls 的硬件和仿真接口以及配套的控制器。来自 DynamicX 机器人队。
+
 ### 物联网
 
 
@@ -88,6 +90,7 @@ Awesome Cloudhouse 项目受 Project Awesome 启发，旨在构建一个面向�
 ### 电机控制
 
 * [SimpleFOC](https://www.simplefoc.com/) - 一个开源、易于使用的无刷直流电机磁场定向控制 (FOC) 算法库，支持 Arduino, STM32 等多种平台
+* [miniFOC](https://github.com/ZhuYanzhen1/miniFOC) - 一款仅需约3美元即可实现磁场定向控制 (FOC) 的开源无刷电机驱动方案，兼具高性能与低成本优势。来自 DynamicX 机器人队。
 
 ### 机器视觉
 
@@ -143,6 +146,7 @@ Awesome Cloudhouse 项目受 Project Awesome 启发，旨在构建一个面向�
 
 ### 社区与论坛
 
+* [RobotMaster 社区](https://bbs.robomaster.com/) - 面向大疆 RoboMaster 机器人比赛的官方技术交流平台，为参赛者和爱好者提供资料、教程和互动支持。
 * [E 萌工作室](https://www.emoe.xyz/) - 起步于西安电子科技大学，旨在分享电子作品，传播电子技术知识的工作室
 
 # 贡献
