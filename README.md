@@ -40,6 +40,7 @@ Awesome Cloudhouse 项目受 Project Awesome 启发，旨在构建一个面向�
 ### MCU 与片上系统
 
 * [江协科技 STM32 入门教程](https://www.bilibili.com/video/BV1th411z7sn/) - 经典的 STM32 标准库入门系列教程
+* [铁头山羊 STM32 HAL库入门教程](https://space.bilibili.com/471714251/lists/3089234) - 注重实践的 STM32 HAL 库入门系列教程
 * [keysking 的 STM32 教程](https://space.bilibili.com/6100925/lists/1025423?type=season) - 以生动的动画为特色的 STM32 HAL 库入门系列教程
 
 ### 嵌入式操作系统
@@ -116,6 +117,7 @@ Awesome Cloudhouse 项目受 Project Awesome 启发，旨在构建一个面向�
 
 ### EDA 与仿真
 
+* [Digital IDE](http://nc-ai.cn/) - 基于 VSCode 的现代化 FPGA & IC 一体化开发验证扩展
 * [KiCad](https://www.kicad.org/) - 业界领先的开源电子设计自动化 (EDA) 软件套件，用于原理图设计和 PCB 布局
 * [立创 EDA](https://lceda.cn/) - 基于 Web 的国产 EDA 工具，与立创商城和嘉立创 PCB 制造深度集成，方便快速打样
 
